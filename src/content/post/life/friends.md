@@ -1,7 +1,7 @@
 ---
 title: "Friends"
 description: "Friends"
-publishDate: "14 May 2025"
+publishDate: "15 May 2025"
 tags: ["life"]
 ---
 
