@@ -3,7 +3,6 @@ title: "Friends"
 description: "Friends"
 publishDate: "14 May 2025"
 tags: ["life"]
-draft: true
 ---
 
 Currently, my mind categorizes platonic relationships into 3 categories:
