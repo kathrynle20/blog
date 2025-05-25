@@ -2,7 +2,7 @@
 title: "How to Make Friends & Influence People"
 description: "Summary of how to make friends & influence people"
 publishDate: "23 May 2025"
-updatedDate: "23 May 2025"
+updatedDate: "24 May 2025"
 tags: ["books"]
 ---
 
@@ -22,7 +22,7 @@ If you want someone to do something, don't just think about why YOU want them to
 ## How to Make Friends
 
 ### Be Genuinely Interested in People
-People love to talk about themselves. Being interested in other people instead of trying to be interesting may be more effective.
+Be interested in other people instead of trying to be interesting to people. “If we want to make friends, let’s put ourselves out to do things for other people—things that require time, energy, unselfishness and thoughtfulness,” writes Carnegie. Being interested in what people have to say and being thoughtful of other people's needs can affect people in meaningful ways.
 
 ### Smile
 This creates a great first impression and can bring a spark of happiness to those around you.
