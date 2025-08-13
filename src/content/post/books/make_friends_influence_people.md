@@ -2,7 +2,7 @@
 title: "How to Make Friends & Influence People"
 description: "Summary of how to make friends & influence people"
 publishDate: "23 May 2025"
-updatedDate: "24 May 2025"
+updatedDate: "12 August 2025"
 tags: ["books"]
 ---
 
@@ -29,3 +29,10 @@ This creates a great first impression and can bring a spark of happiness to thos
 
 ### Remember and Use People's Names
 Remembering people's names shows that you cared enough to remember and saying their name makes the interaction more personal and close.
+
+## Actionable Items
+As a way to keep myself accountable and transform these concepts to actionable, tangible ways to improve, I'll add some of things I've tried and ways I hope to improve the way I interact with others:
+- Smiling! Showing that you're happy to see someone or do something is infectious. It is a positive way to start an interaction with others.
+- Showing genuine interest in others and being curious. I am constantly working on how to dissect and truly listen when others speak to ask engaging questions and show a genuine curiosity in them.
+- Remembering other people's names and what people have said. My memory is pretty terrible but putting in the effort to remember (such as writing down notes after a conversation or repeating an important piece of imformation to yourself over and over to remember it) can be a pleasant surprise when you bring up what someone has previously said.
+- Bringing the "yes, and" mindset to all interactions. Instead of putting down someone else's ideas or opinions, try to move the conversation towards "yes, and." This might include asking why they think that way or asking them to expand on their thought even if you might not agree with it. Try to understand how others think; this isn't the same as agreeing with them and might even lead to more interesting conversation.

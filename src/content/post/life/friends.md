@@ -27,7 +27,7 @@ Examples of interactions with friends:
 
 As I mentioned, the line between acquaintances and friends is already pretty blurry but I think the line between friends and close friends is even blurrier. While I made these separate categories, I feel like this is really a spectrum.
 
-Another aspect that makes this model more unclear is the fact that people may satisfy different parts of your life. It is unfair to ask one person to be simultaneously an emotional support, boba buddy, exercise trainer, academic motivator, and philosopher. There are people who may have great emotional advice but doesn't like the same food as you. There may also be a friend who you love to exercise with but maybe they don't enjoy philosophical conversations as much. Does this prevent them from being a clsoe friend if they can't be everything you need at the same time? It feels like too much to ask of one person. I am definitely still working on trying to move towards this model.
+Another aspect that makes this model more unclear is the fact that people may satisfy different parts of your life. It is unfair to ask one person to be simultaneously an emotional support, boba buddy, exercise trainer, academic motivator, and philosopher. There are people who may have great emotional advice but doesn't like the same food as you. There may also be a friend who you love to exercise with but maybe they don't enjoy philosophical conversations as much. Does this prevent them from being a close friend if they can't be everything you need at the same time? It feels like too much to ask of one person. I am definitely still working on trying to move towards this model.
 
 ## Close friends
 Examples of interactions with close friends:
