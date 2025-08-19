@@ -1,8 +1,7 @@
 ---
 title: "README"
 description: "README"
-publishDate: "18 August 2025"
-draft: true
+publishDate: "19 August 2025"
 ---
 
 # About Me!
